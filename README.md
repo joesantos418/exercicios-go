@@ -15,3 +15,5 @@ Por exemplo:
 ```
 go run ./00-variaveis/solucoes/00-ola-mundo.go
 ```
+
+Para a maioria das soluções, é possível usar o [Go Playground](https://go.dev/play/)
