@@ -7,6 +7,6 @@ func main() {
 
 	fmt.Printf("Digite um numero inteiro: ")
 	fmt.Scanf("%d", &num)
-	num--
+	num++
 	fmt.Printf("%d\n", num)
 }

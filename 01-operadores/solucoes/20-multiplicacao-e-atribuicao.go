@@ -3,8 +3,9 @@ package main
 import "fmt"
 
 func main() {
-	num := 85
-	num %= 3
+	num := 2
+	num *= 5
+	num *= 23
 
 	fmt.Println(num)
 }
