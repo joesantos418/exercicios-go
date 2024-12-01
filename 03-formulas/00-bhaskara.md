@@ -8,7 +8,7 @@ ax^2 + bx + c = 0
 
 onde `a`, `b` e `c` são números reais. Note que `x^2` significa "x ao quadrado".
 É Comum utilizar o acento circumflexo para denotar potências quando escrevemos
-fórmulasem texto;
+fórmulas em texto;
 
 Equações dessa forma possuem 0, 1 ou 2 soluções reais, dadas pela fórmula
 conhecida como fórmula de Bhaskara:
@@ -24,6 +24,11 @@ x2 = (-b - sqrt(b^2 - 4ac)) / 2a
 
 Note que `sqrt()` significa raíz quadrada, uma abreviação do inglês
 <em>square root<em>.
+
+Quando o termo `b^2 - 4ac`, chamado de discriminante, é negativo, a raíz
+quadrada real não existe e a equação possui zero soluções reais. Quando o
+discriminante é igual a zero, `x1` é igual a `x2` e a equação possui apenas uma
+raíz real.
 
 Escreva um programa que implementa a fórmula de Bhaskara para resolver a
 seguinte equação de segundo grau:
