@@ -14,4 +14,4 @@ Escreva um programa que contenha a lista abaixo:
 E imprima na tela todos os nomes até encontrar o primeiro estado da região
 centro-oeste
 
-Veja a [solução](./solucoes/08-nomes.go)
+Veja a [solução](./solucoes/12-estados.go)

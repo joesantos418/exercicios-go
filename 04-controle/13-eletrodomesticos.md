@@ -15,4 +15,4 @@ Leia a [carta](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)
 de [Edsger Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) sobre
 goto (em inglês)
 
-Veja a [solução](./solucoes/08-nomes.go)
+Veja a [solução](./solucoes/13-eletrodomesticos.go)
