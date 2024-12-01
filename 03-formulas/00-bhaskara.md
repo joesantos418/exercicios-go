@@ -37,4 +37,6 @@ seguinte equação de segundo grau:
 x^2 + 12x - 13 = 0
 ```
 
+Dica use a função [`math.Sqrt`](https://pkg.go.dev/math#Sqrt) e [conversão de inteiro para float](https://www.digitalocean.com/community/tutorials/how-to-convert-data-types-in-go-pt#convertendo-os-numeros-inteiros-em-floats)
+
 Veja a [solução](./solucoes/00-bhaskara.go)
