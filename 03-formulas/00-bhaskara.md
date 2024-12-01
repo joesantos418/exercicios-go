@@ -23,7 +23,7 @@ x2 = (-b - sqrt(b^2 - 4ac)) / 2a
 ```
 
 Note que `sqrt()` significa raíz quadrada, uma abreviação do inglês
-<em>square root<em>.
+<em>square root</em>.
 
 Quando o termo `b^2 - 4ac`, chamado de discriminante, é negativo, a raíz
 quadrada real não existe e a equação possui zero soluções reais. Quando o
