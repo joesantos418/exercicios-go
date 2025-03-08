@@ -12,7 +12,7 @@ func main() {
 	a[3] = 4
 	a[4] = 93
 
-	for valor, _ := range a {
+	for _, valor := range a {
 		fmt.Println(valor)
 	}
 }
